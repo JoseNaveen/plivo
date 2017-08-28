@@ -1,0 +1,3 @@
+2017-08-28 14:00:35,052: Received Call from 1111111111 to <sip:endpoint1170824100250@52.9.254.123;transport=udp>;tag=6f2bfe1a with Call ID 28fdd2f0-4681-470f-839c-e77bfea26cfa CallerName None
+2017-08-28 14:01:06,011: Call Disconnected. Reason: NORMAL_CLEARING
+2017-08-28 14:01:06,012: Call 28fdd2f0-4681-470f-839c-e77bfea26cfa Duration 0 days 0 hours 0 minutes 30 seconds

@@ -1,0 +1,61 @@
+C:\Users\joalphon\plivo>python call.py
+INFO: Calling....
+INFO: call successfully placed
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Getting CDR
+INFO: Call From +1111111111 To sip:endpoint1170824100250@phone.plivo.com
+INFO: Call 28fdd2f0-4681-470f-839c-e77bfea26cfa Disconnected. Call Duration 31
+INFO: No Active Calls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
